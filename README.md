@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Christopher Soette, tenho 28 anos e sou natural de São Paulo. Concluí o ensino médio com formação técnica em informática, o que despertou ainda mais meu interesse pela área de tecnologia. Atualmente, estou cursando Segurança da Informação na FATEC Santana de Parnaíba, onde venho desenvolvendo conhecimentos voltados à proteção de sistemas, dados e infraestrutura digital. Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e aplicar boas práticas no desenvolvimento e na segurança de soluções digitais.
+Me chamo Christopher Soette, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio com formação técnica em informática, o que despertou ainda mais meu interesse pela área de tecnologia. Atualmente, estou cursando Segurança da Informação na FATEC Santana de Parnaíba, onde venho desenvolvendo conhecimentos voltados à proteção de sistemas, dados e infraestrutura digital. Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e aplicar boas práticas no desenvolvimento e na segurança de soluções digitais.
 
 <p align="left">
     <a href="https://github.com/csoette?tab=repositories&sort=stargazers">
